@@ -1,5 +1,4 @@
 """Main Module."""
-import setup.setup
+from app.setup import run_app
 
-browser = setup.setup()
-browser.quit()
+browser = run_app()

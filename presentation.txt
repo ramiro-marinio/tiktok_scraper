@@ -22,3 +22,7 @@
     │   │║@    ▇▅▆▇▆▅▅█ ║
     ┷   │╚│═════════════╝
 Air vent│ │Fan
+
+
+In order to use this app, we reccommend you first scroll a few videos yourself to get the captcha check, then start it.
+This will drammatically reduce the chances of having the bot stuck because of a captcha.

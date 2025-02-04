@@ -3,3 +3,4 @@ chromedriver
 __pycache__
 ~
 environment.py
+output
